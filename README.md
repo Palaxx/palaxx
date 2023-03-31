@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Plant a Tree](https://plant-a-tree.ionutandrei.me/badge/u/michele-palamidessi)](https://www.treedom.net/it/user/michele-palamidessi)
 <!--
 **Palaxx/palaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
